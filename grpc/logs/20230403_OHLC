@@ -1,0 +1,4 @@
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: dial tcp 127.0.0.1:29092: connect: connection refused","time":"2023-04-03T10:38:29+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: dial tcp 127.0.0.1:29092: connect: connection refused","time":"2023-04-03T10:38:35+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-03T10:39:28+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-03T10:39:35+07:00"}

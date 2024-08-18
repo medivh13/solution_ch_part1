@@ -1,0 +1,30 @@
+{
+  "name": "create",
+  "type": "record",
+  "namespace": "ohlc.transaction",
+  "fields": [
+    {
+      "name": "data",
+      "type": {
+        "type": "array",
+        "items": {
+          "name": "data",
+          "type": "record",
+          "fields": [
+            {
+              "name": "email",
+              "type": "string",
+              "doc": "Recipient email"
+            },
+            {
+              "name": "name",
+              "type": "string",
+              "doc": "Recipient name"
+            }
+          ]
+        }
+      },
+      "doc": "Email recipient"
+    },
+  ]
+}

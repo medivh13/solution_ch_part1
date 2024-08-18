@@ -1,0 +1,126 @@
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T16:48:17+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T16:49:17+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T16:51:30+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T16:51:34+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T16:51:41+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T16:51:47+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T16:55:11+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2023-04-02T17:04:46+07:00"}
+{"level":"fatal","msg":"listen tcp :8080: bind: address already in use","time":"2023-04-02T17:04:46+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:05:24+07:00"}
+{"level":"warning","msg":"got signal: 0xc0000788a0, shutting down server ...","time":"2023-04-02T17:10:39+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T17:10:39+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:10:51+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:10:51+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:10:51+07:00"}
+{"level":"warning","msg":"got signal: 0xc000106900, shutting down server ...","time":"2023-04-02T17:12:32+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T17:12:32+07:00"}
+{"level":"error","msg":"Error from consumer: read tcp [::1]:51475-\u003e[::1]:29092: i/o timeout","time":"2023-04-02T17:13:06+07:00"}
+{"level":"info","msg":"Rejoin Kafka Consumer","time":"2023-04-02T17:13:07+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T17:14:34+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T17:14:41+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T17:14:44+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T17:14:47+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T17:16:13+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T17:16:17+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T17:17:34+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T17:17:40+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T17:17:43+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T17:17:55+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T17:17:58+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T17:18:01+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-02T17:19:12+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:20:04+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:20:04+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:20:04+07:00"}
+{"level":"warning","msg":"got signal: 0xc0000943c0, shutting down server ...","time":"2023-04-02T17:20:24+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T17:20:24+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:20:58+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:20:58+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:20:58+07:00"}
+{"level":"warning","msg":"got signal: 0xc000095da0, shutting down server ...","time":"2023-04-02T17:21:16+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T17:21:16+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:21:23+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:21:23+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:21:23+07:00"}
+{"level":"warning","msg":"got signal: 0xc0001de060, shutting down server ...","time":"2023-04-02T17:21:28+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T17:21:28+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:21:44+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:21:44+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:21:44+07:00"}
+{"level":"warning","msg":"got signal: 0xc0000c1f80, shutting down server ...","time":"2023-04-02T17:22:31+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T17:22:31+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:22:38+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:22:38+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:22:38+07:00"}
+{"level":"warning","msg":"got signal: 0xc0000fe360, shutting down server ...","time":"2023-04-02T17:23:02+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T17:23:02+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:23:10+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:23:10+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:23:10+07:00"}
+{"level":"warning","msg":"got signal: 0xc0001b75c0, shutting down server ...","time":"2023-04-02T17:24:17+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T17:24:17+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:24:24+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:24:24+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:24:24+07:00"}
+{"level":"warning","msg":"got signal: 0xc0000794a0, shutting down server ...","time":"2023-04-02T17:26:28+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T17:26:28+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:26:36+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:26:36+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:26:36+07:00"}
+{"level":"warning","msg":"got signal: 0xc0002864e0, shutting down server ...","time":"2023-04-02T17:29:14+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T17:29:14+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:29:22+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:29:22+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:29:22+07:00"}
+{"level":"warning","msg":"got signal: 0xc000203ec0, shutting down server ...","time":"2023-04-02T17:31:43+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T17:31:43+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:31:51+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:31:51+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:31:51+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:32:30+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:32:30+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:32:30+07:00"}
+{"level":"warning","msg":"got signal: 0xc000281bc0, shutting down server ...","time":"2023-04-02T17:36:25+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T17:36:25+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:36:33+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:36:33+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:36:33+07:00"}
+{"level":"warning","msg":"got signal: 0xc000280960, shutting down server ...","time":"2023-04-02T17:39:50+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T17:39:50+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:39:59+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:39:59+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:39:59+07:00"}
+{"level":"warning","msg":"got signal: 0xc0002937a0, shutting down server ...","time":"2023-04-02T17:40:32+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T17:40:32+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T17:40:39+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T17:40:39+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T17:40:39+07:00"}
+{"level":"warning","msg":"got signal: 0xc000183140, shutting down server ...","time":"2023-04-02T18:52:34+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T18:52:34+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T18:52:54+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T18:52:54+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T18:52:54+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T19:03:28+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T19:03:28+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T19:03:28+07:00"}
+{"level":"warning","msg":"got signal: 0xc000280960, shutting down server ...","time":"2023-04-02T19:05:48+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T19:05:48+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-02T19:05:56+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-02T19:05:56+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-02T19:05:56+07:00"}
+{"level":"warning","msg":"got signal: 0xc000286240, shutting down server ...","time":"2023-04-02T19:07:03+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-02T19:07:03+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: dial tcp 127.0.0.1:29092: connect: connection refused","time":"2023-04-03T00:54:30+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-03T00:55:21+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2023-04-03T00:55:26+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-03T00:55:42+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-03T00:55:42+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-03T00:55:42+07:00"}
+{"level":"warning","msg":"got signal: 0xc00032a900, shutting down server ...","time":"2023-04-03T00:58:33+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-03T00:58:33+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2023-04-03T00:59:59+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-03T00:59:59+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-03T00:59:59+07:00"}
+{"level":"warning","msg":"got signal: 0xc00028faa0, shutting down server ...","time":"2023-04-03T01:00:04+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-03T01:00:04+07:00"}

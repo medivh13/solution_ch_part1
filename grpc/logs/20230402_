@@ -1,0 +1,2 @@
+{"level":"info","msg":"cant connect Redis :  dial tcp :0: connect: can't assign requested address","time":"2023-04-03T01:04:49+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: dial tcp: missing address","time":"2023-04-03T01:04:49+07:00"}

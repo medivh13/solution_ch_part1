@@ -1,0 +1,36 @@
+syntax = "proto3";
+
+option go_package = "proto/transaction";
+
+package transaction;
+
+
+message Transaction {
+    string number           = 1;
+	string type             = 2; 
+	string stock            = 3; 
+	string order_book        = 4; 
+	string quantity         = 5; 
+	string price            = 6; 
+	string executed_quantity = 7; 
+	string execution_price   = 8; 
+}
+
+message TransactionReq {
+    repeated Transaction transaction =1;
+}
+
+message TransactionResp {
+    int64 previous_price =1;
+	int64 open_price     =2;
+	int64 highest_price  =3;
+	int64 lowest_price   =4;
+	int64 close_price    =5;
+	int64 volume        =6;
+	int64 value         =7;
+	int64 average_price  =8;
+}
+
+service OHLCService {
+    rpc Calculate(TransactionReq) returns (TransactionResp) {}
+}

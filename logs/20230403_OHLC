@@ -1,0 +1,5 @@
+{"level":"info","msg":"Setup Consumer","time":"2023-04-03T13:58:31+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2023-04-03T13:58:31+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2023-04-03T13:58:31+07:00"}
+{"level":"warning","msg":"got signal: 0xc000282720, shutting down server ...","time":"2023-04-03T14:01:25+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-04-03T14:01:25+07:00"}

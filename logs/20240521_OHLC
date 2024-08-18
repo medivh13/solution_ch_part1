@@ -1,0 +1,27 @@
+{"level":"info","msg":"cant connect Redis :  dial tcp 127.0.0.1:6379: connect: connection refused","time":"2024-05-21T18:18:11+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: dial tcp 127.0.0.1:29092: connect: connection refused","time":"2024-05-21T18:18:12+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:19:19+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:19:29+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:19:33+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:19:36+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:20:10+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:20:14+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:20:17+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:20:21+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:20:43+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:21:07+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:21:15+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:21:33+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:22:14+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:22:20+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: EOF","time":"2024-05-21T18:22:24+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2024-05-21T18:25:18+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2024-05-21T18:25:18+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2024-05-21T18:25:18+07:00"}
+{"level":"warning","msg":"got signal: 0x140000a2960, shutting down server ...","time":"2024-05-21T18:31:08+07:00"}
+{"level":"info","msg":"server exiting","time":"2024-05-21T18:31:08+07:00"}
+{"level":"info","msg":"Setup Consumer","time":"2024-05-21T18:32:15+07:00"}
+{"level":"info","msg":"listen on:9000","time":"2024-05-21T18:32:15+07:00"}
+{"level":"info","msg":"Kafka consumer ohlc.transaction is started . . .","time":"2024-05-21T18:32:15+07:00"}
+{"level":"warning","msg":"got signal: 0x140001fca80, shutting down server ...","time":"2024-05-21T18:35:01+07:00"}
+{"level":"info","msg":"server exiting","time":"2024-05-21T18:35:01+07:00"}

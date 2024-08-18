@@ -1,0 +1,14 @@
+{"level":"info","msg":"cant connect Redis :  dial tcp :0: connect: can't assign requested address","time":"2023-04-03T00:56:09+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: dial tcp: missing address","time":"2023-04-03T00:56:10+07:00"}
+{"level":"info","msg":"cant connect Redis :  dial tcp :0: connect: can't assign requested address","time":"2023-04-03T00:57:11+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: dial tcp: missing address","time":"2023-04-03T00:57:12+07:00"}
+{"level":"info","msg":"cant connect Redis :  dial tcp :0: connect: can't assign requested address","time":"2023-04-03T00:58:17+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: dial tcp: missing address","time":"2023-04-03T00:58:18+07:00"}
+{"level":"info","msg":"cant connect Redis :  dial tcp :0: connect: can't assign requested address","time":"2023-04-03T00:58:40+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: dial tcp: missing address","time":"2023-04-03T00:58:41+07:00"}
+{"level":"info","msg":"cant connect Redis :  dial tcp :0: connect: can't assign requested address","time":"2023-04-03T00:58:57+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: dial tcp: missing address","time":"2023-04-03T00:58:58+07:00"}
+{"level":"info","msg":"cant connect Redis :  dial tcp :0: connect: can't assign requested address","time":"2023-04-03T00:59:02+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: dial tcp: missing address","time":"2023-04-03T00:59:03+07:00"}
+{"level":"info","msg":"cant connect Redis :  dial tcp :0: connect: can't assign requested address","time":"2023-04-03T00:59:44+07:00"}
+{"level":"fatal","msg":"kafka: client has run out of available brokers to talk to: dial tcp: missing address","time":"2023-04-03T00:59:45+07:00"}
